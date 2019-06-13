@@ -320,5 +320,5 @@ function congratsPageShow() {
 }
 
 canvas.on('mouse:over', function(event) {
-  //add hovereffect on rects  TODO
+  //add hovereffect on rects
 });
